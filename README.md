@@ -18,7 +18,7 @@
 
 ### Some stats I found cool
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielAlzogarayFlores&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ArielAlzogarayFlores)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielAlzogarayFlores&count_private=true&show_icons=true&theme=transparent)](https://github.com/ArielAlzogarayFlores)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielAlzogarayFlores&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielAlzogarayFlores&theme=transparent)](https://git.io/streak-stats)
 
