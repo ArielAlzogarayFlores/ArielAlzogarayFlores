@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Ariel! 👋
 
-<!--
-**ArielAlzogarayFlores/ArielAlzogarayFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm currently working on
 
-Here are some ideas to get you started:
+- 🦅 [Hawkeye](https://github.com/GuidoZyl/Hawkeye) • App for tennis players that uses CV and ML to help them improve their skills, their game, and umpire their matches.
+- 👨‍💻 [Tech-Gap](https://github.com/ArielAlzogarayFlores/tech-gap-blog) • A tech blog made by and for students. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Go-To Tools
+
+- Figma
+- HTML
+- CSS
+- Tailwind
+- Sass
+- JavaScript
+- React
+- Next
+
+### Some stats I found cool
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielAlzogarayFlores&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ArielAlzogarayFlores)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielAlzogarayFlores&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
