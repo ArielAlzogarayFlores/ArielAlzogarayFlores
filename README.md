@@ -20,5 +20,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielAlzogarayFlores&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ArielAlzogarayFlores)
 
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielAlzogarayFlores&theme=tokyonight)](https://git.io/streak-stats)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielAlzogarayFlores&theme=tokyonight)](https://github.com/ArielAlzogarayFlores)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAlzogarayFlores&layout=compact&hide=c%23&theme=tokyonight)](https://github.com/ArielAlzogarayFlores)
 
