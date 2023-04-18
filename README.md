@@ -13,6 +13,7 @@
 - Tailwind
 - Sass
 - JavaScript
+- TypeScript
 - React
 - Next
 
