@@ -2,7 +2,7 @@
 
 ### What I'm currently working on
 
-- 🦅 [Hawkeye](https://github.com/GuidoZyl/Hawkeye) • App for tennis players that uses computer vision to help them improve their skills, their game, and umpire their matches.
+- 🦅 [Hawkeye](https://github.com/Hawkeye-App) • App for tennis players that uses computer vision to help them improve their skills, their game, and umpire their matches.
 - 👨‍💻 [Tech-Gap](https://github.com/ArielAlzogarayFlores/tech-gap-blog) • A tech blog made by and for students. 
 
 ### My Go-To Tools
